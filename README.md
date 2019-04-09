@@ -20,7 +20,7 @@ serve the provided `index.html`. The HTML file will automatically load
 
 In our exploration of `this`, we saw how it can change depending on how it is
 called. Let's take a look at a quick example. Copy and paste this into your
-browser's JS console to test for yourself:
+browser's JS console to test for yourself :
 
 ```js
 function greet() {
