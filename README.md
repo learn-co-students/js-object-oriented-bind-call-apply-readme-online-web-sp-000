@@ -1,4 +1,4 @@
-# Bind, Call, and Apply Readme
+c# Bind, Call, and Apply Readme
 
 In this code along, we will be practicing the use of `bind`, `call` and `apply`.
 
